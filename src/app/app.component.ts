@@ -11,7 +11,7 @@ import { ChildComponent } from './child/child.component';
 export class AppComponent implements OnInit {
 
   ngOnInit(): void {
-    alert('Welcome ');
+    alert('Welcome to the project');
   }
 
   title = 'new-project';
